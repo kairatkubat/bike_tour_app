@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "386390089162",
+    "firebase_url": "https://flutter-tour-app-ce2db-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-tour-app-ce2db",
+    "storage_bucket": "flutter-tour-app-ce2db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386390089162:android:72b5197fe143773bcd8333",
+        "android_client_info": {
+          "package_name": "com.example.udemythree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386390089162-osnie7nl95ogvph3bfabsfr9a5movud3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKleqWctwc4FkC6zE6nAJ-lguM5Q4OExw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386390089162-osnie7nl95ogvph3bfabsfr9a5movud3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "386390089162-eggsb9b3p10ei8nicjnv88dd2og0rpaq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.udemythree"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
